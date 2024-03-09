@@ -1,5 +1,10 @@
 # BD-Gestion_Projet_Recherche
+***Filière:*** L3 double licence sciences de la vie informatique  
+***Matière:*** IN513 Bases de données avancées
+***Réalisé par:*** Sarah Donia TIMSILINE et Sofia TERKI  
+***Année scolaire:*** 2023/2024
 
+----------------------------------------------------------------------------------------------------------------------------
 **Projet : Modéliser une base de données pour gérer les projets de recherche du LGBC (Laboratoire de Génétique et de Biologie Cellulaire) de l'UVSQ.   On y retrouvera les différentes plateformes du laboratoire, les projets de recherche, les publications, les chercheurs, les financements, etc.**
 
 ## Les tables
